@@ -1,4 +1,4 @@
-# FIFA_WC_2022_PowerBI
+# FIFA_WC_2022_Analysis
 A 2022 FIFA World Cup visual analytics project on PowerBI using two dashboards - Players and Teams.
 
 Team Performance Dashboard:
